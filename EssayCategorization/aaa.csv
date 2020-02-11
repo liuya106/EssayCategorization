@@ -1,0 +1,25 @@
+Author,Title,Year,Category,Url,Citations
+"Fisher, P. and Hankley, W. and Wallentine, V.",Separation of Introductory Programming and Language Instruction,1973,FLP: other: language agnostic approaches,http://doi.acm.org/10.1145/800010.808066,6
+"Weiner, Leonard H.",Machine Generation of Assignments for a Mass Education Introductory Programming Course,1973,LA: assessment: other: auto and student generated assignments,http://doi.acm.org/10.1145/800010.808105,2
+"Salton, Gerard",Introductory Programming at Cornell,1973,Students: non-majors,http://doi.acm.org/10.1145/800010.808068,3
+"Gries, David",What Should We Teach in an Introductory Programming Course?,1974,FLP: other: language agnostic approaches,http://doi.acm.org/10.1145/800183.810447,32
+"Conway, Richard W.",Introductory Instruction in Programming,1974,Students: other: enrollment issues,http://doi.acm.org/10.1145/800183.810430,3
+"Shapiro, Stuart C. and Witmer, Douglas P.",Interactive Visual Simulators for Beginning Programming Students,1974,Tools: editors apis etc,http://doi.acm.org/10.1145/800183.810431,5
+"Danielson, Ronald L. and Nievergelt, Jurg",An Automatic Tutor for Introductory Programming Students,1975,LA: assessment: automatic tutoring and assessment systems,http://doi.acm.org/10.1145/800284.811129,2
+"Cherniak, Bob",Introductory Programming Reconsidered - a User-oriented Approach,1976,DSA: general,http://doi.acm.org/10.1145/800107.803449,6
+"Ecklund,Jr., E. F.",A Ldquo;Non-programming\&Rdquo; Introduction to Programming Concepts,1976,FLP: other: language agnostic approaches,http://doi.acm.org/10.1145/800107.803448,0
+"Brewer, Richard K.",Documentation Standards for Beginning Students,1976,Teaching: other: focus on documentation or requirements or specifications or design,http://doi.acm.org/10.1145/800107.803450,1
+"Shneiderman, Ben","Evaluating Introductory Programming Textbooks: A Guide for Students, Instructors, Authors and Publishers",1977,Content: other: textbook choice,http://doi.acm.org/10.1145/800106.803434,0
+"Alford, M. and Hsia, P. and Petry, F.",A Software Engineering Approach to Introductory Programming Courses,1977,Content: software engineering approaches,http://doi.acm.org/10.1145/800104.803381,3
+"Oldehoeft, R. R. and Roman, R. V.",Methodology for Teaching Introductory Computer Science,1977,DSA: general,http://doi.acm.org/10.1145/800104.803373,1
+"Hosch, Frederick A.",Whither Flowcharting?,1977,Teaching: other: flowcharting,http://doi.acm.org/10.1145/800106.803437,2
+"Schneider, G. Michael",The Introductory Programming Course in Computer Science: Ten Principles,1978,DSA: general,http://doi.acm.org/10.1145/990555.990598,14
+"Bowles, Kenneth L.",A CS1 Course Based on Stand-alone Microcomputers,1978,DSA: other,http://doi.acm.org/10.1145/990555.990601,7
+"Epley, Donald and Sjoerdsma, Ted",A Two-semester Course Sequence in Introductory Programming Using PL/1\&Mdash;a Rationale and Overview,1978,FLP: other: language migration,http://doi.acm.org/10.1145/800130.804244,3
+"Furuta, Richard and Kemp, P. Michael",Experimental Evaluation of Programming Language Features: Implications for Introductory Programming Languages,1979,FLP: general,http://doi.acm.org/10.1145/800126.809544,0
+"Kimura, Takayuki",Reading Before Composition,1979,LA: learning: reading or writing or tracing or debugging or testing,http://doi.acm.org/10.1145/800126.809575,3
+"Mitchell, William",Another Approach to Service Courses,1979,Students: non-majors,http://doi.acm.org/10.1145/800126.809541,2
+"Ellison, Robert J.",A Programming Sequence for the Liberal Arts College,1980,DSA PS: other,http://doi.acm.org/10.1145/800140.804628,1
+"Kurtz, Barry L.",Investigating the Relationship Between the Development of Abstract Reasoning and Performance in an Introductory Programming Class,1980,Students: predicting and measuring success,http://doi.acm.org/10.1145/800140.804622,9
+"Harrison, Warren A. and Magel, Kenneth I.",A Suggested Course in Introductory Computer Programming,1981,DSA: general,http://doi.acm.org/10.1145/800037.800961,2
+"Smith, Jeffrey W.",A Method for Teaching Programming,1981,Teaching: general,http://doi.acm.org/10.1145/800037.800996,1
